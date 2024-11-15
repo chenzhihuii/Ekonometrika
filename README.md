@@ -1,0 +1,2 @@
+# Ekonometrika
+For ekonometrics task
