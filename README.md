@@ -5,4 +5,4 @@ Conduct an analysis to determine the best panel data model and evaluate the reli
 
 - NOTES
 
-The souce code and PDF documents that have been worked on are my own work and are protected by copyright. Any use, distribution, or retrieval without written permission is considered an infringement and will be strictly penalized.
+The source code and PDF documents are my own work and are protected by copyright. Any use, distribution, or retrieval without written permission is considered an infringement and will be strictly penalized!.
